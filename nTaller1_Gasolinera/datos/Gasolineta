@@ -1,0 +1,13 @@
+tipo:Gasolinita:120:10.0
+tipo:Gasolina :100:10.0
+tipo:Gasolinota:150:140.0
+tipo:Gasolinisima:180:18.0
+surtidor:Andrés:Gasolinita:0.0:Gasolina :0.0:Gasolinota:0.0:Gasolinisima:0.0
+surtidor:Tomás :Gasolinita:2.0:Gasolina :0.0:Gasolinota:0.0:Gasolinisima:0.0
+surtidor:Jose :Gasolinita:0.0:Gasolina :0.0:Gasolinota:0.0:Gasolinisima:0.0
+surtidor:Alejandro :Gasolinita:0.0:Gasolina :0.0:Gasolinota:0.0:Gasolinisima:0.0
+empleado:Leonardo :0
+empleado:Tomás :240
+empleado:Andrés:0
+empleado:Jose :0
+empleado:Alejandro :0
